@@ -1,0 +1,19 @@
+{
+  "name": "llmvc",
+  "version": "0.0.1",
+  "description": "FullStack application framework built on LLMs",
+  "main": "index.js",
+  "repository": "https://github.com/forrest-lyman/llmvc",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "llm",
+    "ai",
+    "fullstack",
+    "mvc"
+  ],
+  "author": "Forrest Lyman",
+  "license": "MIT"
+}
