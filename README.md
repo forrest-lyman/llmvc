@@ -16,7 +16,8 @@ a wide range of platforms. Initial target platforms include:
 * VSCode Extension: accelerate AI driven VSCode extension development
 * Firebase: hosts the client package on Firebase hosting and serves the server package in Firebase Cloud Functions
 
-You can also use any component of the framework independently.
+> Note that we are building this package as a mono package for the prototype, but will separate each of the components
+> in our release version so they can be used independently.
 
 ### Controllers
 
